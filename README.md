@@ -1,5 +1,4 @@
 # ATmega168-ADC
-Voltage measurement program for Atmel ATmega88/168/328 microcontrollers
 
 I developed this project a while back to test the analog to digital conversion (ADC) functionality of Atmega168 microcontrollers. I used a
 16 x 2 LCD character display to display the voltage measured by the ADC.
